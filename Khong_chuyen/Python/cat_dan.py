@@ -1,5 +1,8 @@
 # https://oj.vnoi.info/problem/olp_kc22_cutpaste
 
+
+import sys
+input = sys.stdin.readline
 flag = True
 
 # hàm tính khoảng cách giữa 2 điểm trông mặt phẳng toạ độ Oxy
