@@ -19,7 +19,7 @@ int main()
         // nếu có đúng 1 ký tự đó thì có nghĩa là có 1 kết quả duy nhất
         // nếu không tìm ra kết quả đó thì là no sulution
         // nếu có nhiều hơn thì là Multiple
-        int dem1=0, dem2=0, i=0, j=0;
+        int dem1=0, dem2=0, i=0, j=0;   
         string s1 = s.substr(0, s.size() / 2);
         string s2 = s.substr(s.size() / 2);
         string s3 = s.substr(0, s.size() / 2 + 1);
